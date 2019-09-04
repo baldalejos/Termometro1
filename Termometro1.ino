@@ -1,4 +1,4 @@
-#include <M5Stack.h>//Incluimos la librería M5stackloshuevos
+#include <M5Stack.h>//Incluimos la librería M5stack
 
 #include "DHT.h"//Incluimos la librería DHT
 
